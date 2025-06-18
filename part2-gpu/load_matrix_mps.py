@@ -1,4 +1,3 @@
-
 import torch
 import scipy.io
 import numpy as np
@@ -21,8 +20,7 @@ device = get_best_device()
 print(f"Using device: {device}")
 
 if device.type == "mps":
-    print("🍎 Apple M1/M2 GPU acceleration enabled!")
-    print("Unified memory architecture provides excellent performance")
+    print("Apple M1/M2 GPU acceleration enabled!")
 elif device.type == "cuda":
     print(f"GPU: {torch.cuda.get_device_name(0)}")
     print(f"GPU Memory: {torch.cuda.get_device_properties(0).total_memory / 1024**3:.1f} GB")
@@ -211,7 +209,7 @@ def main():
         # Print performance summary
         print_performance_summary(computation_time, len(errors), errors)
         
-        print(f"\n🎉 M1 MultiNMF completed successfully!")
+        print(f"\M1 MultiNMF completed successfully!")
         print(f"Output saved to: {output_file}")
         
         # Cleanup

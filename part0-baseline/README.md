@@ -8,9 +8,8 @@ Establish baseline performance metrics for both Python and C++ implementations o
 ### Python Implementation
 - **Total Runtime**: 2 hours, 26 minutes, 31 seconds (10,591 seconds)
 - **CPU Utilization**: 64% average
-
-![Python MultiNMF Visualization](/Users/advikaravishankar/Downloads/multinmf_project_scripts/Figure_1.png)
-
+- **Visualization located as Figure1.png in part0-baseline folder**
+  
 ### C++ Implementation  
 - **Total Runtime**: 1 hour, 31 minutes, 19 seconds
 - **Speedup vs Python**: 1.95×

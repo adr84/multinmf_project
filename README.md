@@ -6,7 +6,7 @@
 ## Overview
 This project implements and compares three acceleration strategies for Multi-view Non-negative Matrix Factorization (MultiNMF). 
 
-multinmf_project/
+multinmf-acceleration/
 ├── README.md                           # Main overview (executive summary)
 ├── docs/
 │   ├── system_specifications.md        # All system specs

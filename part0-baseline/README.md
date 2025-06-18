@@ -18,5 +18,3 @@ Establish baseline performance metrics for both Python and C++ implementations o
 - C++ implementation provides nearly 2× speedup over Python baseline
 - Establishes foundation for subsequent acceleration strategies
 - Validates algorithm correctness across language implementations
-
-See [baseline_results.md](baseline_results.md) for detailed analysis.

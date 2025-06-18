@@ -4,15 +4,6 @@
 
 This report documents the implementation of GPU-accelerated MultiNMF using Apple's Metal Performance Shaders (MPS) framework. The implementation converts the existing Python MultiNMF code to utilize Apple M1 GPU computing capabilities, providing a modern alternative to NVIDIA CUDA for GPU acceleration.
 
-## System Specifications
-
-- **Operating System**: macOS (Darwin) 12.3+
-- **Hardware**: Apple M1 processor with integrated GPU
-- **GPU Framework**: Metal Performance Shaders (MPS)
-- **Python Version**: 3.x with PyTorch 2.0+
-- **GPU Memory**: Unified memory architecture (shared with system RAM)
-- **Libraries**: PyTorch with MPS backend, NumPy, SciPy, Matplotlib
-
 ## Implementation Approach
 
 ### Design Philosophy

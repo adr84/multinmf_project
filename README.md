@@ -2,3 +2,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org)
 [![MPI](https://img.shields.io/badge/MPI-OpenMPI-green.svg)](https://www.open-mpi.org/)
+
+## Overview
+This project implements and compares three acceleration strategies for Multi-view Non-negative Matrix Factorization (MultiNMF):

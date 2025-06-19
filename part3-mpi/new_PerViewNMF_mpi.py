@@ -2,7 +2,6 @@ import numpy as np
 import numpy.matlib
 import time
 
-# MPI support (inline - no separate wrapper needed)
 try:
     from mpi4py import MPI
     MPI_AVAILABLE = True

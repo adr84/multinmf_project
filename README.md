@@ -16,8 +16,6 @@ This project implements and compares three acceleration strategies for Multi-vie
 
 ### Analysis & Results
 - 📈 [**Performance Summary**](results/) - Cross-method comparisons
-- 📋 [**Technical Documentation**](docs/) - Complete analysis and specifications
 
 ### Quick Links
 - [System Specifications](docs/system_specifications.md)
-- [Assignment Deliverables](docs/assignment_deliverables.md)

@@ -1,0 +1,6 @@
+- **Operating System**: macOS 15.3.2 (Sequoia, Build 24D81)
+- **CPU**: Apple M1 (8-core ARM64 processor)
+- **GPU**: Apple M1 GPU (8 cores, Metal 3 support)
+- **Python**: 3.13.5
+- **GPU Framework**: Metal Performance Shaders (MPS)
+- **Architecture**: Apple Silicon with unified memory

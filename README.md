@@ -14,8 +14,5 @@ This project implements and compares three acceleration strategies for Multi-vie
 - 🚀 [**GPU Acceleration**](part2-gpu/) - Apple M1 MPS implementation
 - 🌐 [**Distributed Computing**](part3-mpi/) - MPI parallel processing
 
-### Analysis & Results
-- 📈 [**Performance Summary**](results/) - Cross-method comparisons
-
 ### Quick Links
 - [System Specifications](docs/system_specifications.md)
